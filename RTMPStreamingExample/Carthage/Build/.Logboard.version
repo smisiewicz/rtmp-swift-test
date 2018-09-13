@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "Logboard",
+      "hash" : "d5c3662f678d6c4582a3f91bf15bead5119008ded8772d76966a3a4a8dc90490"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "Logboard",
+      "hash" : "5b94e161414d08bb9ac8eb957b06423a585fcc5e035d0f61bb2724e3e8c2bdba"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "Logboard",
+      "hash" : "edae596cfaeabde93c0f33f9aea678f9575ab8b42112b94f3ff64c1ca51b212a"
+    }
+  ],
+  "commitish" : "1.1.7",
+  "iOS" : [
+    {
+      "name" : "Logboard",
+      "hash" : "1ebb454779a564b96cf029e2342c8ae6457f0e90260b34fde54be98ed691589e"
+    }
+  ]
+}

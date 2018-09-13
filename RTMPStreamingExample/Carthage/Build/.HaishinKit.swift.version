@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+    {
+      "name" : "HaishinKit",
+      "hash" : "f6bddd66a2903a42b2718260cfdec49ae85c8b068651bb4a99e44121bae96d2a"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "HaishinKit",
+      "hash" : "8c343ec872030d81dbc007b8f93cdb5a818d5b72c23960eccead7c427b38ac5a"
+    }
+  ],
+  "commitish" : "0.9.3",
+  "iOS" : [
+    {
+      "name" : "HaishinKit",
+      "hash" : "9933bebb76782f46acc234e8351359f00f949d4aabbad12ad6bdc3f6c80f3b9c"
+    }
+  ]
+}
